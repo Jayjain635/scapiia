@@ -122,62 +122,7 @@ class _FourthpageState extends State<Fourthpage> {
                 Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                // Container(
-                //   height: 85,
-                //   width: 85,
-                //   decoration: BoxDecoration(
-                //       borderRadius: BorderRadius.circular(21),
-                //       color: const Color(0xFF121212)),
-                //   child: const Padding(
-                //     padding: EdgeInsets.symmetric(
-                //         horizontal: 5, vertical: 10),
-                //     child: Column(
-                //       children: [
-                //         Text(
-                //           "Choose from",
-                //           style: TextStyle(
-                //               color: CustomColor.primaryText,
-                //               fontSize: 10.5),
-                //         ),
-                //         Text(
-                //           "5 lakh+ \nstays",
-                //           style: TextStyle(
-                //               color: Color(0xFF62D0B6),
-                //               fontWeight: FontWeight.bold,
-                //               fontSize: 14),
-                //         )
-                //       ],
-                //     ),
-                //   ),
-                // ),
-                // Container(
-                //   height: 80,
-                //   width: 80,
-                //   decoration: BoxDecoration(
-                //       borderRadius: BorderRadius.circular(21),
-                //       color: const Color(0xFF121212)),
-                //   child: const Padding(
-                //     padding: EdgeInsets.symmetric(
-                //         horizontal: 5, vertical: 10),
-                //     child: Column(
-                //       children: [
-                //         Text(
-                //           "Fly with all",
-                //           style: TextStyle(
-                //               color: CustomColor.primaryText,
-                //               fontSize: 10.5),
-                //         ),
-                //         Text(
-                //           "Global \nairlines",
-                //           style: TextStyle(
-                //               color: Color(0xFF8ED004),
-                //               fontWeight: FontWeight.bold,
-                //               fontSize: 14),
-                //         )
-                //       ],
-                //     ),
-                //   ),
-                // ),
+                
                 FouthpageBox2Bottom(
                   title1: "Choose from",
                   title2: "5 lakh+ \nstays",
